@@ -111,7 +111,4 @@ This project highlights the potential of deep learning in medical imaging. While
 ### Notes
 - For more detailed analysis, refer to the training notebooks and evaluation scripts.
 - All images and training logs are included in the project directory.
-## Project by
-<a href="https://github.com/rami4real/PneumoniaClassificationDeepLearningProject/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=rami4real/PneumoniaClassificationDeepLearningProject" />
-</a>
+
