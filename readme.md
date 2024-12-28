@@ -33,7 +33,7 @@ The dataset contains labeled chest X-ray images categorized into pneumonia-posit
 
 ### Custom Model Developed from Scratch
 - **Architecture Overview:**  
-  ![Custom Model Architecture](archiFromScratch.png)  
+  ![Custom Model Architecture](archFromScratch.png)  
   The custom model was designed with layers optimized for processing X-ray images to detect pneumonia effectively.
 
 ### ResNet Architecture
